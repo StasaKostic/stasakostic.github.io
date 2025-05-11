@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://people.epfl.ch/stasa.kostic/?lang=en'>Doctoral Assistant at Embedded Systems Laboratory, EPFL</a>
+subtitle: Doctoral Assistant at <a href='https://www.epfl.ch/labs/esl/'>Embedded Systems Laboratory</a>, EPFL
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an electrical engineer, interested in reconfigurable hardware accelerators from edge and low-power applications to high performance scientific computing in data centers.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
