@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='[#](https://people.epfl.ch/stasa.kostic/?lang=en)'>EPFL</a>. stasa.kostic@epfl.ch
 
 profile:
   align: right
